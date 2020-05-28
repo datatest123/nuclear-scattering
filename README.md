@@ -1,4 +1,4 @@
-This repo houses final project our group worked on for our computational physics 
+This repo houses the final project our group worked on for our computational physics 
 class at Georgia Tech. 
 
 The "Scattering.ipynb" notebook contains the project overview and results. The 
